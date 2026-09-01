@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/app_icon.png" width="120" />
+<img src="/app_icon.png" width="120" />
 
 # Wearzeno
 
